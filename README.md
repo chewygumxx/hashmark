@@ -8,7 +8,7 @@
 > [!NOTE]
 > This repository is a fork of [danielcregg/hashmark](https://github.com/danielcregg/hashmark),
 >
-> which is a itself a more featureful fork of [antonmedv/textarea](https://github.com/antonmedv/textarea).
+> Which itself increments upon [antonmedv/textarea](https://github.com/antonmedv/textarea).
 
 A zero-dependency, serverless Markdown editor that lives entirely in your URL. Write, preview, and share documents by simply sending a link -- no database, no accounts, no servers required.
 
